@@ -17,7 +17,7 @@ DHT dht(DHTPIN, DHTTYPE);
 const char* MY_SSID = "vineeth";
 const char* MY_PWD = "123456789";
 const char* TS_SERVER = "api.thingspeak.com";
-const String TS_API_KEY = "UVHY17PASJ5IYO11";
+const String TS_API_KEY = "XIFYZONASJ6UYO14";
 
 WiFiClient client;
 
